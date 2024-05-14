@@ -2,7 +2,6 @@ mokey.yaml
 mokey.toml
 mokey.db
 mokey
-go.yml
 .env
 dist/
 key.gpg
